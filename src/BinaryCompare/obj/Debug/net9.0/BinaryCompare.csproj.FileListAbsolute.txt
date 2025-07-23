@@ -1,0 +1,14 @@
+D:\source\BinaryCompare\BinaryCompare\bin\Debug\net9.0\BinaryCompare.exe
+D:\source\BinaryCompare\BinaryCompare\bin\Debug\net9.0\BinaryCompare.deps.json
+D:\source\BinaryCompare\BinaryCompare\bin\Debug\net9.0\BinaryCompare.runtimeconfig.json
+D:\source\BinaryCompare\BinaryCompare\bin\Debug\net9.0\BinaryCompare.dll
+D:\source\BinaryCompare\BinaryCompare\bin\Debug\net9.0\BinaryCompare.pdb
+D:\source\BinaryCompare\BinaryCompare\obj\Debug\net9.0\BinaryCompare.GeneratedMSBuildEditorConfig.editorconfig
+D:\source\BinaryCompare\BinaryCompare\obj\Debug\net9.0\BinaryCompare.AssemblyInfoInputs.cache
+D:\source\BinaryCompare\BinaryCompare\obj\Debug\net9.0\BinaryCompare.AssemblyInfo.cs
+D:\source\BinaryCompare\BinaryCompare\obj\Debug\net9.0\BinaryCompare.csproj.CoreCompileInputs.cache
+D:\source\BinaryCompare\BinaryCompare\obj\Debug\net9.0\BinaryCompare.dll
+D:\source\BinaryCompare\BinaryCompare\obj\Debug\net9.0\refint\BinaryCompare.dll
+D:\source\BinaryCompare\BinaryCompare\obj\Debug\net9.0\BinaryCompare.pdb
+D:\source\BinaryCompare\BinaryCompare\obj\Debug\net9.0\BinaryCompare.genruntimeconfig.cache
+D:\source\BinaryCompare\BinaryCompare\obj\Debug\net9.0\ref\BinaryCompare.dll
