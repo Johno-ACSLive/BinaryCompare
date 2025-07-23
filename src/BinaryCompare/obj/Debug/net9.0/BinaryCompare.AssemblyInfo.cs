@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BinaryCompare")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+aad75bd8b7f55fa41b7ccabbbc3eb5c076a9579b")]
 [assembly: System.Reflection.AssemblyProductAttribute("BinaryCompare")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BinaryCompare")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

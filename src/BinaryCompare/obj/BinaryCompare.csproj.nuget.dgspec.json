@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\source\\BinaryCompare\\BinaryCompare\\BinaryCompare.csproj": {}
+    "D:\\source\\BinaryCompare\\src\\BinaryCompare\\BinaryCompare.csproj": {}
   },
   "projects": {
-    "D:\\source\\BinaryCompare\\BinaryCompare\\BinaryCompare.csproj": {
+    "D:\\source\\BinaryCompare\\src\\BinaryCompare\\BinaryCompare.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\source\\BinaryCompare\\BinaryCompare\\BinaryCompare.csproj",
+        "projectUniqueName": "D:\\source\\BinaryCompare\\src\\BinaryCompare\\BinaryCompare.csproj",
         "projectName": "BinaryCompare",
-        "projectPath": "D:\\source\\BinaryCompare\\BinaryCompare\\BinaryCompare.csproj",
+        "projectPath": "D:\\source\\BinaryCompare\\src\\BinaryCompare\\BinaryCompare.csproj",
         "packagesPath": "C:\\Users\\Johno\\.nuget\\packages\\",
-        "outputPath": "D:\\source\\BinaryCompare\\BinaryCompare\\obj\\",
+        "outputPath": "D:\\source\\BinaryCompare\\src\\BinaryCompare\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -77,18 +77,6 @@
           "warn": true,
           "downloadDependencies": [
             {
-              "name": "Microsoft.AspNetCore.App.Runtime.win-x64",
-              "version": "[9.0.7, 9.0.7]"
-            },
-            {
-              "name": "Microsoft.NETCore.App.Runtime.win-x64",
-              "version": "[9.0.7, 9.0.7]"
-            },
-            {
-              "name": "Microsoft.WindowsDesktop.App.Runtime.win-x64",
-              "version": "[9.0.7, 9.0.7]"
-            },
-            {
               "name": "runtime.win-x64.Microsoft.DotNet.ILCompiler",
               "version": "[9.0.7, 9.0.7]"
             }
@@ -99,11 +87,6 @@
             }
           },
           "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.302/PortableRuntimeIdentifierGraph.json"
-        }
-      },
-      "runtimes": {
-        "win-x64": {
-          "#import": []
         }
       }
     }
